@@ -1,0 +1,60 @@
+.brand-logo{
+    height: 28px;
+    width: 28px;
+}
+
+.pdt-0{
+    padding-top: 20px;
+}
+
+.imgbx{
+position: relative;
+}
+
+.imgtxt{
+    position:absolute;
+    top:30%;
+    left:15%; 
+    color: white;
+}
+.imgbx a{
+    color: white;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+.shbtn h6{
+    background-color: white;
+    color: black;
+    height: 35px;
+    width: 125px;
+    text-align: center;
+    border-radius: 10px;
+    padding-top: 5px;
+}
+.shbtn :hover {
+    background-color: rgb(204, 197, 197);
+    
+}
+
+.pb-10{
+    padding-bottom: 20px;
+}
+.del{
+    color: #5e5e5e;
+}
+.rate{
+    display: flex;    
+}
+.big{
+    padding: 10px;
+}
+
+
+
+@media only screen and (max-width: 700px){
+
+}
